@@ -1,0 +1,12 @@
+{
+  "name": "oamigolucas",
+  "version": "1.0.0",
+  "description": "Site estático do O Amigo Lucas",
+  "scripts": {
+    "build": "echo 'No build required for static site'",
+    "start": "echo 'Static site - serve files directly'"
+  },
+  "keywords": ["static", "html", "css", "javascript"],
+  "author": "Lucas",
+  "license": "MIT"
+}
