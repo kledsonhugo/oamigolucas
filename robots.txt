@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oamigolucas.com/sitemap.xml
